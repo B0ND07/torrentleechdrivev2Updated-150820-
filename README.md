@@ -25,7 +25,8 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ## installing...
 
-### The Easy Way
+### The Easy Way(HEROKU)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 #### STEPS (I did this to avoid the use of same button multiple times)
 
